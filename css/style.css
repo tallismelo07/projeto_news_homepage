@@ -1,0 +1,7 @@
+@import url(cabecalho.css);
+
+:root {
+    --var-font-01: "Inter-Bold";
+    --var-font-01: "Inter-ExtraBold";
+    --var-font-01: "Inter-Regular";
+}
