@@ -1,0 +1,22 @@
+.cabecalho-inicial {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 90px 90px 0px 90px;
+}
+
+.links {
+    font-size: 15px;
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff9770; /* ou qualquer cor */
+  }
